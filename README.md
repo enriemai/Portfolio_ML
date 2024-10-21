@@ -12,8 +12,8 @@ Regarding the particular themes of each project, in summary:
 
 - **Time forecast of temperatures in Avalon Beach**: from data collected from the NASA website, we obtain the time series of average temperatures per day in the well-known Avalon area in Sydney. In this project we compare the performance of basic regression models with advanced time series models such as SARIMA.
 
--**Movie recommendation systems**: development of recommendation systems, both collaborative and content-based. In this project we can highlight the creation of new features to improve the system, the collection of missing data using scraping and the customization of the models.
+- **Movie recommendation systems**: development of recommendation systems, both collaborative and content-based. In this project we can highlight the creation of new features to improve the system, the collection of missing data using scraping and the customization of the models.
 
--**Study of Neural Networks**: from simpler neural networks to convolutional neural networks for image recognition and recurrent neural networks for time series.
+- **Study of Neural Networks**: from simpler neural networks to convolutional neural networks for image recognition and recurrent neural networks for time series.
 
 This portfolio is **only a part of my work** that corresponds to the area of ​​machine learning and also does not include all my projects in this area.
