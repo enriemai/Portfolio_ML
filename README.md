@@ -1,6 +1,6 @@
 # Portfolio_ML
 
-In this portfolio I keep some of my **machine learning projects** in which I cover all the key points of a data science project. Some of the common aspects of the projects are:
+In this portfolio (https://github.com/enriemai/Portfolio_ML/) I keep some of my **machine learning projects** in which I cover all the key points of a data science project. Some of the common aspects of the projects are:
   - *Data import*: both common data sets and data collection from websites such as NASA.
   - *Data cleaning*: removing null values, duplicates and completing data using scraping.
   - *Exploratory data analysis*.
